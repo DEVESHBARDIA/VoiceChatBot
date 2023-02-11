@@ -1,0 +1,72 @@
+user:u
+robot:r
+
+
+u: hi,hello
+
+                         R:  Hello, I am Agro! Farmer's friend.
+                             I am your Digital farming assistant. 
+                             I am here to guide you through your farming and
+                             agricultural needs.
+U:how can you help me
+  help me
+                        R:   I can help on diferent crops,
+                             enivironmental condition required for those crops
+                             to improve the yield and 
+                             can do many more things for you! 
+                             How may I help you today?
+
+U:Best climate for coconut
+
+                        R:  Tropical climate
+                    
+U:Best soil for coconut
+
+                        R: Red sandy loam,laterite,alluvial
+                           coastal sandy and reclaimed soils
+                           with a pH ranging from 5.2 to 8.0 is recommended for better production of coconut
+
+U:Best fertilizer for coconut
+
+                       R: Organic Manure of 30 kg green manure
+
+U:Watering of coconut plant
+
+                      R: once or twice per week in summer months 
+
+U: Thank you
+
+                    R:Most welcome",
+                    "Not an issue",
+                    "Its my pleasure",
+                    "Mention not"
+
+U:Best climate for arecanut
+
+                    R:cultivation of arecanut is mostly confined to
+                      28º north and south of the equator. 
+                      It grows well within the temperature 
+                      range of 14ºC and 36ºC
+
+ U:water required for arecanut
+
+                   R:arecanut is a water intensive crop which
+                     requires about 16-20 litres of water per 
+                     tree per day.
+
+U:soil is best for arecanut
+
+                    R:plant outdoor areca palms in rich,
+                     slightly acidic soil with good drainage.
+0
+U:How deep do arecanut palm roots grow
+
+                    R:palm tree roots are no deeper than 
+                    three feet into the ground.
+
+U:thank You
+
+                    R:Most welcome",
+                    "Not an issue",
+                    "Its my pleasure",
+                    "Mention not"
